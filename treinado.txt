@@ -1,0 +1,5 @@
+Primeiro neuronio entrada: [ 55.37638588 -33.37293351  -7.14223499  10.05785676]
+Segundo neuronio entrada: [ 55.09327289 -33.53413259  -6.41818903  10.82089067]
+Primeiro neuronio culta: [63.68328495 64.75834865]
+Segundo neuronio oculta: [63.52186466 65.45073335]
+Neuronio Saida [ 69.02963606 -10.42150212]
